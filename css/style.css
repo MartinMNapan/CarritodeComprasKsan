@@ -1,0 +1,42 @@
+header{
+    margin-top: 1%;
+}
+
+.navBar{
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
+
+.navBar li{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 200%;
+    display: inline-block;
+}
+
+.titlePage{
+    margin-top: 3%;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 30%;
+    
+}
+
+.titlePage h2{
+    font-family: 'Licorice', cursive;
+    font-size: 350%;
+
+}
+
+.navbar-nav.navbar-center {
+    /* position: absolute; */
+    margin: auto;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 180%;
+}
+
+/* nav.navbar {
+    background-color: #f3b4b4;
+} */
+
+
